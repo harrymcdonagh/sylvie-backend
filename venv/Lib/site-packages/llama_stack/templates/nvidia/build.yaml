@@ -1,0 +1,25 @@
+version: '2'
+distribution_spec:
+  description: Use NVIDIA NIM for running LLM inference and safety
+  providers:
+    inference:
+    - remote::nvidia
+    vector_io:
+    - inline::faiss
+    safety:
+    - remote::nvidia
+    agents:
+    - inline::meta-reference
+    telemetry:
+    - inline::meta-reference
+    eval:
+    - inline::meta-reference
+    post_training:
+    - remote::nvidia
+    datasetio:
+    - inline::localfs
+    scoring:
+    - inline::basic
+    tool_runtime:
+    - inline::rag-runtime
+image_type: conda

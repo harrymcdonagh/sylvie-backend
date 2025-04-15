@@ -1,0 +1,3 @@
+[console_scripts]
+install-wheel-from-presigned = llama_stack.cli.scripts.run:install_wheel_from_presigned
+llama = llama_stack.cli.llama:main
