@@ -157,17 +157,12 @@
   {
     "name": "FRANK",
     "url": "https://www.talktofrank.com/",
-    "desc": "Offers information regarding all types of drugs"
+    "desc": "Offers information regarding drugs"
   },
   {
     "name": "N&N hospital",
     "url": "https://www.nnuh.nhs.uk/",
-    "desc": ""
-  },
-  {
-    "name": "See NHS Direct for further advice",
-    "url": "https://www.nhs.uk/live-well/eat-well/",
-    "desc": ""
+    "desc": "University Hospital"
   },
   {
     "name": "Accommodation office",
@@ -177,11 +172,6 @@
   {
     "name": "Contact the online NHS 111 service",
     "url": "https://111.nhs.uk/covid-19/",
-    "desc": ""
-  },
-  {
-    "name": "order a test",
-    "url": "https://tinyurl.com/y8h27ba9",
     "desc": ""
   },
   {
