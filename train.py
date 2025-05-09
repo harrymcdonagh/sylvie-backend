@@ -1,4 +1,4 @@
-#accelerate launch train.py --model_name_or_path ./model --train_file ./data.jsonl --output_dir sylvie-finetuned --per_device_train_batch_size 4 --gradient_accumulation_steps 8 --num_train_epochs 3 --max_seq_length 256
+#accelerate launch train.py --model_name_or_path ./model --train_file ./data.jsonl --output_dir sylvie-finetuned --per_device_train_batch_size 4 --gradient_accumulation_steps 8 --num_train_epochs 3 --max_seq_length 512
 
 import argparse
 import os

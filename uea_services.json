@@ -2,181 +2,176 @@
   {
     "name": "Nightline",
     "url": "https://norwich.nightline.ac.uk/",
-    "desc": "Confidential and non-advisory listening service for UEA students"
+    "desc": "A student-run, overnight listening service providing confidential, non-advisory emotional support to UEA students facing personal challenges."
   },
   {
     "name": "Advice SU",
     "url": "https://www.ueasu.org/advice/",
-    "desc": "Confidential advice service for all UEA students"
+    "desc": "Professional and student-led advice service offering confidential guidance on academic, financial, housing, and welfare issues to UEA students."
   },
   {
     "name": "Student Counselling",
     "url": "https://www.uea.ac.uk/uea-life/student-support/wellbeing",
-    "desc": ""
+    "desc": "University-run counselling centre providing free one-to-one therapy, group workshops, and wellbeing resources to support student mental health."
   },
   {
     "name": "Samaritans",
     "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
-    "desc": "Free confidential emotional support to people who are struggling with mental or physical health"
+    "desc": "A 24/7 free helpline offering compassionate, non-judgmental emotional support and crisis intervention for anyone experiencing distress."
   },
   {
     "name": "Accommodation",
     "url": "https://www.uea.ac.uk/uea-life/accommodation",
-    "desc": "Provides information regarding accommodation on and off campus to students"
+    "desc": "Comprehensive guidance on on-campus and off-campus housing options, application processes, contracts, and tenancy support for students."
   },
   {
     "name": "Report and Support",
     "url": "https://reportandsupport.uea.ac.uk/",
-    "desc": "A confidential and safe space for students, staff, and visitors to report concerns about unacceptable behavior, such as bullying, harassment, or discrimination"
+    "desc": "Secure online platform for reporting harassment, bullying, discrimination, or safety concerns with confidential assistance from trained staff."
   },
   {
     "name": "Security",
     "url": "https://www.uea.ac.uk/about/information-for-visitors/contact-information-and-map",
-    "desc": "The security team at UEA which deal with disturbances and protect students"
+    "desc": "UEA Campus Security Team providing 24/7 patrols, emergency response, and safety advice to ensure a secure campus environment."
   },
   {
     "name": "Housing Advice",
     "url": "https://www.ueasu.org/advice/housing-issues/",
-    "desc": "Provides information to UEA students about living off campus"
+    "desc": "Specialist advice on tenancy rights, deposits, dispute resolution, and legal support for students living off campus."
   },
   {
     "name": "Disability Advice",
     "url": "https://www.uea.ac.uk/uea-life/student-support/disability-support",
-    "desc": "Provides information on support the university provides for students with disabilities"
+    "desc": "Dedicated team offering academic adjustments, assistive technology, and advocacy for students with disabilities or long-term health conditions."
   },
   {
     "name": "Counselling and mental health",
     "url": "https://www.ueasu.org/advice/health-and-personal/",
-    "desc": "The services available at the university for students struggling with mental health and need a counsellor"
+    "desc": "UEA SU service providing confidential counselling, mental health workshops, and signposting to professional wellbeing resources."
   },
   {
     "name": "Clubs",
     "url": "https://www.ueasu.org/opportunities/clubs/",
-    "desc": "The list of Clubs available at UEA"
+    "desc": "Directory of sports, hobby, and special interest clubs offering opportunities for social connection and skill development."
   },
   {
     "name": "Societies",
     "url": "https://www.ueasu.org/opportunities/societies/",
-    "desc": "The list of societies available at UEA"
+    "desc": "Extensive list of academic, cultural, and recreational societies fostering community engagement and personal growth."
   },
   {
     "name": "Learning Enhancement Team",
     "url": "https://www.uea.ac.uk/uea-life/student-support/learning-enhancement",
-    "desc": "The team at the university which are available if a student is struggling with their studies, they offer different types of support"
+    "desc": "Campus service providing academic skills workshops, study planning, and one-to-one support to improve learning strategies."
   },
   {
     "name": "Peer Assisted Learning Mentors",
     "url": "https://www.uea.ac.uk/study/information-for/supporting-your-studies",
-    "desc": "Where another student on the same course as the struggling student tutors and helps them with work they find difficult"
+    "desc": "Experienced student mentors facilitating group study sessions and one-to-one tutoring to reinforce course concepts."
   },
   {
     "name": "Student Support Services",
     "url": "https://www.uea.ac.uk/uea-life/student-support/student-information-zone",
-    "desc": "Provides information about all aspects of student life, and is there to answer any questions a student may have"
+    "desc": "Central hub offering information and guidance on wellbeing, finance, accommodation, and general student enquiries."
   },
   {
     "name": "UEA Student Support Services",
     "url": "https://www.uea.ac.uk/uea-life/student-support/student-information-zone",
-    "desc": "Provides information about all aspects of student life, and is there to answer any questions a student may have"
+    "desc": "Central support centre providing comprehensive advice on academic, personal, and welfare matters for UEA students."
   },
   {
     "name": "Faith and Spirituality",
     "url": "https://www.ueasu.org/communities/faithandspirituality/",
-    "desc": "A community where people who are religious can go and practice their chosen religon"
+    "desc": "Interfaith chaplaincy and community network offering spiritual guidance, religious events, and a safe space for all beliefs."
   },
   {
     "name": "The Cruse Bereavement Charity",
     "url": "https://www.cruse.org.uk/",
-    "desc": "Charity for people who have lost a loved one, focuses on grief"
+    "desc": "UK-wide charity providing bereavement counselling, support groups, and resources for individuals coping with loss."
   },
   {
     "name": "The Good Grief Trust",
     "url": "https://www.thegoodgrieftrust.org/",
-    "desc": "Charity for people who have lost a loved one, focuses on grief"
+    "desc": "National network offering tailored bereavement support, information, and access to local grief services."
   },
   {
     "name": "UEA Career Central",
     "url": "https://mycareercentral.uea.ac.uk/",
-    "desc": "Helps students with all aspects regarding getting a career post-university or securing an internship"
+    "desc": "Online portal providing CV feedback, career workshops, employer events, and internship opportunities."
   },
   {
     "name": "UEA hardship fund",
     "url": "https://www.ueasu.org/advice/cost-of-living/",
-    "desc": "A fund which helps students who are unable to afford food and other basic needs while studying at university"
+    "desc": "Emergency financial grants to assist students facing acute hardship with essentials like food, rent, and study materials."
   },
   {
     "name": "Access to Learning fund",
     "url": "https://www.uea.ac.uk/study/fees-and-funding",
-    "desc": "A fund which helps students who are unable to afford their studies and living costs due to family or personal circumstances"
+    "desc": "University-administered bursary supporting students with exceptional financial need to continue their studies."
   },
   {
     "name": "UEA financial Advice",
     "url": "https://www.uea.ac.uk/about/university-information/finance-and-procurement/finance-information-for-students",
-    "desc": "A team which offers basic financial advice to students, this could involve creating a simple budget"
+    "desc": "Finance team offering budgeting advice, debt guidance, loan information, and financial wellbeing workshops."
   },
   {
     "name": "UEA bursaries and scholarships",
     "url": "https://www.uea.ac.uk/study/fees-and-funding",
-    "desc": "The lists of bursaries and scholarships the university provides to specific students"
+    "desc": "Comprehensive overview of merit-based and need-based awards, scholarships, and bursary opportunities."
   },
   {
     "name": "Sportspark",
     "url": "https://www.sportspark.co.uk/",
-    "desc": "The sports center of the university, contains the gym and other sporting facilities"
+    "desc": "State-of-the-art sports centre with gyms, swimming pools, courts, fitness classes, and wellness programmes."
   },
   {
     "name": "Library",
     "url": "https://www.uea.ac.uk/library",
-    "desc": "The main library at the university"
+    "desc": "UEA Library offering extensive collections, study spaces, online resources, and research support services."
   },
   {
     "name": "Career Central",
     "url": "https://mycareercentral.uea.ac.uk/",
-    "desc": "Helps students with all aspects regarding getting a career post-university or securing an internship"
+    "desc": "Career development hub providing job listings, employer networking events, and personalised career guidance."
   },
   {
     "name": "Study skills",
     "url": "https://www.uea.ac.uk/uea-life/student-support/learning-enhancement",
-    "desc": "Helps students practice and implement better study skills"
+    "desc": "Workshops and resources focused on effective study techniques, time management, and academic writing."
   },
   {
     "name": "NHS Choices",
     "url": "https://www.nhs.uk/",
-    "desc": "The NHS offers simple advice online"
+    "desc": "Official NHS website offering reliable health information, symptom checkers, and guidance on treatments."
   },
   {
     "name": "Medical centre",
     "url": "https://www.umsuea.co.uk/",
-    "desc": "The doctors which is on-campus available to all UEA students to become registered to"
+    "desc": "On-campus NHS-affiliated medical centre providing GP services, vaccinations, and health consultations to students."
   },
   {
     "name": "NHS Direct 111",
     "url": "https://111.nhs.uk/",
-    "desc": "A phoneline called for non-emergency medical queries, can also be online"
+    "desc": "Free NHS non-emergency phone line and online service offering urgent medical advice and support."
   },
   {
     "name": "FRANK",
     "url": "https://www.talktofrank.com/",
-    "desc": "Offers information regarding drugs"
+    "desc": "Confidential drug information service providing facts, advice, and a helpline on substance use and harm reduction."
   },
   {
     "name": "N&N hospital",
     "url": "https://www.nnuh.nhs.uk/",
-    "desc": "University Hospital"
+    "desc": "Norfolk & Norwich University Hospital offering acute, specialist, and emergency medical care."
   },
   {
     "name": "Accommodation office",
     "url": "https://www.uea.ac.uk/uea-life/accommodation/contact-us",
-    "desc": ""
-  },
-  {
-    "name": "Contact the online NHS 111 service",
-    "url": "https://111.nhs.uk/covid-19/",
-    "desc": ""
+    "desc": "UEA Accommodation Office handling room allocations, maintenance requests, and housing policy information."
   },
   {
     "name": "UEA Dental Practice",
     "url": "https://www.nhs.uk/services/dentist/uea-dental-practice/V000835",
-    "desc": ""
+    "desc": "On-campus dental surgery offering NHS dental care, check-ups, and oral health advice to students."
   }
 ]
