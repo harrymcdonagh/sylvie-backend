@@ -1,4 +1,2 @@
-model/
-model_finetuned/
-model_hf/
-venv/
+.env
+/venv
