@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from chatbot_api import generate_chat_response
+from chatbot_api import generate_chat_response, generate_chat_title
 from typing import Optional, List, Dict
 
 app = FastAPI()
@@ -14,4 +14,5 @@ class ChatRequest(BaseModel):
 async def generate(chat: ChatRequest):
     print(f"Request received:\nPrompt: {chat.prompt}\nStudent: {chat.student_name}\nHistory: {chat.history}")
     reply = generate_chat_response(chat.prompt, chat.student_name, history=chat.history)
-    return {"reply": reply}
+    title = generate_chat_title(chat.history + [{"role": "user", "content": chat.prompt}, {"role": "assistant", "content": reply}])
+    return {"reply": reply, "title": title}
