@@ -13,6 +13,6 @@ class ChatRequest(BaseModel):
 @app.post("/api/generate")
 async def generate(chat: ChatRequest):
     print(f"Request received:\nPrompt: {chat.prompt}\nStudent: {chat.student_name}\nHistory: {chat.history}")
-    reply = generate_chat_response(chat.prompt, chat.student_name, history=chat.history)
+    reply = generate_chat_response(chat.prompt, chat.student_name, chat.course, chat.year, history=chat.history)
     title = generate_chat_title(chat.history + [{"role": "user", "content": chat.prompt}, {"role": "assistant", "content": reply}])
     return {"reply": reply, "title": title}
